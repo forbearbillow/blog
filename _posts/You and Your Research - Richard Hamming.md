@@ -1,5 +1,12 @@
+---
+layout: post
+title: "你与你的研究 --- You and Your Research"
+date: 2026-04-27
+categories: [Research]
+---
 
 # 你与你的研究 --- You and Your Research
+https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 Transcription of the  Bell Communications Research Colloquium Seminar
 
 7 March 1986 
