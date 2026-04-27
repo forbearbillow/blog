@@ -3,3 +3,17 @@ title: My's homepage
 description: Bookmark this to keep an eye on my notebook updates!
 
 
+
+title: Wang Lab Notes
+author: wangkt
+description: Research notes on my interests
+theme: minima
+
+# 基础设置
+markdown: kramdown
+permalink: /:categories/:title/
+
+# 导航（后面可扩展）
+header_pages:
+  - index.md
+  - about.md
